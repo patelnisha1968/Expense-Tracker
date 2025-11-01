@@ -30,3 +30,9 @@ A **Python CLI Expense Tracker** to help you manage and analyze your expenses ef
 ```bash
 git clone https://github.com/yourusername/Expense-Tracker.git
 cd Expense-Tracker
+
+## 🎬 Demo
+Here’s a short demo of the Expense Tracker in action:
+
+![Expense Tracker Demo](demo.gif)
+
