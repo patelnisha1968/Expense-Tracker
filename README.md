@@ -27,7 +27,7 @@ A **Python CLI Expense Tracker** to help you manage and analyze your expenses ef
 ## How to Run
 
 1. Clone the repository:
-```bash
+bash
 git clone https://github.com/yourusername/Expense-Tracker.git
 cd Expense-Tracker
 
